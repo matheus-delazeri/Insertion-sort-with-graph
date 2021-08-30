@@ -1,5 +1,5 @@
 # Insertion sort algorithm
-An insertion sort algorithm in Python3 that sorts a array of X random values and shows the process in a graph.
+An insertion sort algorithm in Python3 that sorts an array of X random values and shows the process in a graph.
 
 # Required libraries
 - numpy
